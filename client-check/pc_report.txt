@@ -1,0 +1,59 @@
+======================================== 
+Диагностика компьютера 
+======================================== 
+ 
+Операционная система 
+---------------------------------------- 
+Название: Microsoft Windows 11 Home 
+Версия: 10.0.26200 
+ 
+Процессор 
+---------------------------------------- 
+12th Gen Intel(R) Core(TM) i5-12450H 
+ 
+Оперативная память 
+---------------------------------------- 
+Всего памяти: 15 ГБ 
+Свободно памяти: 8 ГБ 
+ 
+Диск C 
+---------------------------------------- 
+Всего: 158 ГБ 
+Свободно: 82 ГБ 
+ 
+Установленные программы 
+---------------------------------------- 
+PostgreSQL 18  
+Microsoft Office Standard 2019 - ru-ru 
+Microsoft Visio - ru-ru 
+WinRAR 5.91 (64-разрядная) 
+Zona 
+Python 3.14.4 Tcl/Tk Support (64-bit) 
+Microsoft Windows Application Compatibility Fix Database 
+Python 3.14.4 Executables (64-bit) 
+Happ - Proxy Utility 4.3.0(610) 
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.50.35719 
+Python 3.14.4 Standard Library (64-bit) 
+Python 3.14.4 Development Libraries (64-bit) 
+Python 3.14.4 Add to Path (64-bit) 
+Office 16 Click-to-Run Extensibility Component 
+Office 16 Click-to-Run Localization Component 
+Python 3.14.4 Documentation (64-bit) 
+Microsoft Teams Meeting Add-in for Microsoft Office 
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.50.35719 
+Microsoft Update Health Tools 
+Python 3.14.4 Core Interpreter (64-bit) 
+Python 3.14.4 Test Suite (64-bit) 
+Python 3.14.4 pip Bootstrap (64-bit) 
+Arduino 
+Chrone Browser 
+Copilot 
+Microsoft Edge 
+Среда выполнения Microsoft Edge WebView2 Runtime 
+Microsoft Visual C++ v14 Redistributable (x86) - 14.50.35719 
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.50.35719 
+Microsoft Visual C++ 2005 Redistributable 
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.50.35719 
+Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719 
+Adobe Reader X (10.1.0) - Russian 
+Python Launcher 
