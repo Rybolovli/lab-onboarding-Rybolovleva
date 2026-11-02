@@ -1,0 +1,90 @@
+========================================
+Диагностика компьютера
+Дата и время формирования отчёта: 02.11.2026 15:44:10
+Компьютер: DESKTOP-LS306P0, пользователь: admin
+========================================
+
+Операционная система
+----------------------------------------
+Название: Microsoft Windows 11 Home
+Версия: 10.0.26200
+
+Процессор
+----------------------------------------
+Модель: 12th Gen Intel(R) Core(TM) i5-12450H
+
+Оперативная память
+----------------------------------------
+Всего памяти, ГБ: 15,7
+Свободно памяти, ГБ: 10
+
+Диск C
+----------------------------------------
+Всего, ГБ: 158,9
+Свободно, ГБ: 80,8
+
+Установленные программы
+----------------------------------------
+Найдено программ: 35
+Adobe Reader X (10.1.0) - Russian
+Arduino
+Chrone Browser
+Copilot
+Happ - Proxy Utility 4.3.0(610)
+Microsoft Edge
+Microsoft Office Standard 2019 - ru-ru
+Microsoft Teams Meeting Add-in for Microsoft Office
+Microsoft Update Health Tools
+Microsoft Visio - ru-ru
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.50.35719
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.50.35719
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.50.35719
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.50.35719
+Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719
+Microsoft Visual C++ v14 Redistributable (x86) - 14.50.35719
+Microsoft Windows Application Compatibility Fix Database
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Localization Component
+PostgreSQL 18 
+Python 3.14.4 Add to Path (64-bit)
+Python 3.14.4 Core Interpreter (64-bit)
+Python 3.14.4 Development Libraries (64-bit)
+Python 3.14.4 Documentation (64-bit)
+Python 3.14.4 Executables (64-bit)
+Python 3.14.4 pip Bootstrap (64-bit)
+Python 3.14.4 Standard Library (64-bit)
+Python 3.14.4 Tcl/Tk Support (64-bit)
+Python 3.14.4 Test Suite (64-bit)
+Python Launcher
+uTorrent TEST
+WinRAR 5.91 (64-разрядная)
+Zona
+Среда выполнения Microsoft Edge WebView2 Runtime
+
+Раздел 1. Проверка базового набора ПО для офисной работы
+Базовый набор: офисный пакет, браузер, чтение PDF, архиватор, антивирус.
+----------------------------------------
+[OK] Офисный пакет: требование выполнено, найдено: Microsoft Office Standard 2019 - ru-ru
+[OK] Браузер: найден только Microsoft Edge. Это компонент Windows, а не результат настройки рабочего места.
+[OK] Просмотр PDF: требование выполнено, найдено: Adobe Reader X (10.1.0) - Russian
+[РЕКОМЕНДАЦИЯ] Не обнаружен архиватор. Для работы с вложениями в почте рекомендуется установить 7-Zip или WinRAR.
+[OK] Антивирус: по данным Центра безопасности Windows зарегистрировано: Windows Defender. Microsoft Defender является компонентом Windows.
+
+Раздел 2. ПО, не относящееся к базовым офисным задачам
+Это рекомендации к проверке, а не указание к удалению.
+Часть программ может быть установлена по согласованию с руководством.
+----------------------------------------
+[OK] Игровое ПО и игровые платформы: подходящих программ не найдено.
+[ПРОВЕРИТЬ] Торрент-клиенты и файлообменные программы: найдены программы, не относящиеся к базовым офисным задачам.
+    Создают нагрузку на сеть и часто являются источником нежелательного ПО. Рекомендуется проверить.
+    - uTorrent TEST
+[OK] Мессенджеры и приложения для личного общения: подходящих программ не найдено.
+[OK] Инструменты для развлечений и оформления: подходящих программ не найдено.
+
+ИТОГ
+----------------------------------------
+Проверено категорий базового ПО: 5
+Проверено групп признаков излишнего ПО: 4
+Выдано рекомендаций: 2
+Полный путь к отчёту: C:\Users\admin\Desktop\check\pc_report.txt
